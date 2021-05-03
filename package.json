@@ -1,0 +1,19 @@
+{
+  "name": "asyncloop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncloop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hershyheilpern/asyncloop.git"
+  },
+  "author": "Hershy Heilpern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hershyheilpern/asyncloop/issues"
+  },
+  "homepage": "https://github.com/hershyheilpern/asyncloop#readme"
+}
