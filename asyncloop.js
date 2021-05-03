@@ -10,7 +10,7 @@ function asyncloop(...ary) {
             if(i < count){
                 loop(ary,i,count,res)
             }else{
-                cb(res)
+                cb(...res)
             }
         })
     }
