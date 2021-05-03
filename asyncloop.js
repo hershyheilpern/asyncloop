@@ -5,7 +5,7 @@ function asyncloop(...ary) {
     count = ary.length
     loop(ary,i,count,prams)
     function loop(ary,i,count,prams) {
-        ary[i](prams,(...res)=>{
+        ary[i](...prams,(...res)=>{
             i++
             if(i < count){
                 loop(ary,i,count,res)
