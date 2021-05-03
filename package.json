@@ -1,5 +1,5 @@
 {
-  "name": "async-loop",
+  "name": "async_loop",
   "version": "1.0.0",
   "description": "",
   "main": "asyncloop.js",
